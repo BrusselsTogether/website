@@ -10,14 +10,14 @@ Making things happen in Brussels today feels like creating a website in 1990. It
 
 Luckily, over the years, it became easier and easier to publish online. We got there by open sourcing the technologies that we all needed so that we could stop wasting time reinventing the wheel and focus instead on our unique contribution to the world.
 
-That's why our goal is to open source all the things that can be open sourced and mutualized all the things that can be mutualized to reduce the friction that exists to create, maintain and operate an association in Brussels.
+That's why our goal is to open source all the things that can be open sourced and mutualize all the things that can be mutualized to reduce the friction that exists to create, maintain and operate an association in Brussels.
 
 ## Create your association online
 
 As soon as you need to deal with money, you have to create an association (ASBL/VZW). Let's be honest, this is a pain in the ass.
-You need to create statuses (in French or Dutch!) and do the accounting. Plus reports that you need to send every year (or every quarter if you are subject to VAT). So much overhead for just throwing up events or doing some local actions here and there. Not to mention that this is something that each and every single association has to go through. So much energy wasted.
+You need to create statuses (in French or Dutch!) and do the accounting. Plus reports that you need to send every year (or every quarter if you are subject to VAT). So much overhead for just throwing up events or doing some local actions here and there. Not to mention that this is something that each and every single association has to do. So much energy wasted.
 
-BrusselsTogether allows you to create a virtual association online.
+That's why, BrusselsTogether allows you to create a virtual association online.
 
 ## Benefits
 
@@ -27,7 +27,7 @@ BrusselsTogether allows you to create a virtual association online.
 - Collect donations and membership dues online (optional)
 - Fully transparent: everybody can see how much money you have and how you spend it, gives trust to the community to support you.
 - Allow anyone to get their expenses reimbursed
-- Easy to shut down or transfer to your own non profit association (ASBL/VZW)
+- Easy to shut down or transfer to your own non profit association (ASBL/VZW) if you ever create one in the future
 - Get free Google Ads to advertise your activities
 
 *\* Well, depending on how fast we can review your application to make sure you are legit.*
@@ -51,7 +51,7 @@ We will review it as soon as possible (usually takes a day or two)
 
 ### How much does it cost?
 
-- BrusselsTogether is a non profit (ASBL). To cover our costs we decided together to charge 10%. The "profit" goes into a common participatory budget where we can all decide how to reinvest that money to improve the community. The more collectives we will be, the cheaper it will be for all of us (and we could lower that commission over time). You can [follow our budget in full transparency here](https://opencollective.com/brusselstogether).
+- BrusselsTogether is a non profit (ASBL). To cover our costs we decided together to charge 10%. The "profit" goes into a common participatory budget where we can all decide how to reinvest that money to improve the community. The more collectives we will be, the cheaper it will be for all of us (and we could lower that commission over time). You can [follow our budget in full transparency here](https://opencollective.com/brusselstogether-collective).
 - If you are raising money online:
   - there is an additional credit card processing fee (1.9% + €0.25 per transaction)
   - there is a 5% crowdfunding fee (included in the 10%) that goes to the Open Collective Platform (which is [open source](https://github.com/opencollective/opencollective)).
