@@ -66,15 +66,13 @@ class Index extends React.Component {
         <ul className="posts">
           {pageLinks}
         </ul>
-        <p>We all have something to contribute to make Brussels a better city. But it's still too hard to get things done.</p>
-        <p>BrusselsTogether lets you create a virtual association so that you can get started in no time and focus on what you want to do to improve Brussels. No paperwork needed.<br />
-        <a href="/services/">Find out more</a>.</p>
-        <p>
-        We curate a <b>monthly newsletter</b> with the best initiatives happening in Brussels.<br /><a href="http://brusselstogether.us15.list-manage.com/subscribe?u=bc4a7d8ae7c38b1bb4ae32404&id=08f5b0187e">Sign up for the newsletter</a>.
-        </p>
-        <p>
-        We also host a <b>monthly meetup</b> where we showcase 3 great initiatives and give you the opportunity to share yours.<br /><a href="https://meetup.com/BrusselsTogether">Join our Meetup Group</a>.
-        </p>
+        <p>We all have something to contribute to make Brussels a better city.</p>
+        <p>BrusselsTogether aims to make it easier to start and sustain any citizen led initiative:
+          <ul>
+            <li>Discover the <a href="https://opencollective.com/brusselstogether-collective#hosting">existing initiatives happening in Brussels that you can support</a></li>
+            <li>Start your initiative: BrusselsTogether lets you create a virtual association so that you can get started in no time and focus on what you want to do to improve Brussels. No paperwork needed.  <a href="/services/">Find out more</a> - <a href="https://opencollective.com/brusselstogether/apply">Apply</a></li>
+          </ul>
+       </p>
         <h2>Join us</h2>
         <div dangerouslySetInnerHTML={{__html: contactPage}}/>
       </div>
