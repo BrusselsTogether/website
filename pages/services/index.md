@@ -51,8 +51,13 @@ We will review it as soon as possible (usually takes a day or two)
 
 ### How much does it cost?
 
-- BrusselsTogether is a non profit (ASBL). To cover our costs we decided together to charge 10%. The "profit" goes into a common participatory budget where we can all decide how to reinvest that money to improve the community. The more collectives we will be, the cheaper it will be for all of us (and we could lower that commission over time). You can [follow our budget in full transparency here](https://opencollective.com/brusselstogether-collective).
+TLDR:
+- Free to create a collective
+- 10% commission on the money you raise to act as your fiscal sponsor (and handle accounting, reporting, etc.)
+
+Why?
+- BrusselsTogether is a non profit (ASBL). To cover our costs we decided together to take a 10% commission on the money raised by any collective. The "profit" goes into a common participatory budget where we can all decide how to reinvest that money to improve the community. The more collectives we will be, the cheaper it will be for all of us (and we could lower that commission over time). You can [follow our budget in full transparency here](https://opencollective.com/brusselstogether-collective).
 - If you are raising money online:
-  - there is an additional credit card processing fee (1.9% + €0.25 per transaction)
-  - there is a 5% crowdfunding fee (included in the 10%) that goes to the Open Collective Platform (which is [open source](https://github.com/opencollective/opencollective)).
-- You can't hire employees (but you can hire independent workers if they can send you an invoice, or via [SMart](http://smartbe.be/en/)).
+  - there is an additional credit card processing fee (1.9% + €0.25 per transaction) charged by [Stripe](https://stripe.com).
+  - there is a 5% crowdfunding fee (included in the 10%) that goes to the [Open Collective Platform](https://opencollective.com) (which is [open source](https://github.com/opencollective/opencollective)).
+- Note: You can't hire employees (but you can hire independent workers if they can send you an invoice, or via [SMart](http://smartbe.be/en/)).

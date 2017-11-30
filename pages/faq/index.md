@@ -45,11 +45,11 @@ We need to work together. This is not a zero sum game. We are not here to compet
 ## How to...
 
 ### Contribute
-You can support this collective by [making a donation](https://opencollective.com/BrusselsTogether#support) or by [becoming a member for €10/month](https://opencollective.com/BrusselsTogether/donate/10/monthly). 
-We also invite you to directly contribute to the collective of a project that you like and that is listed on our [collective page](https://opencollective.com/BrusselsTogether). If they are on that page, then they all share the same values and same level of transparency on how they will use the funds that they will raise.
+You can support this collective by [making a donation](https://opencollective.com/BrusselsTogether-collectives/donate) or by [becoming a member for €10/month](https://opencollective.com/brusselstogether-collective/order/120). 
+We also invite you to directly contribute to the collective of a project that you like and that is listed on our [collective page](https://opencollective.com/BrusselsTogether#collectives). If they are on that page, then they all share the same values and same level of transparency on how they will use the funds that they will raise.
 
 ### Add an initiative
-Edit the [#BrusselsTogether Spreadsheet](http://bit.ly/BrusselsTogetherSpreadsheet) and add your initiative in the "Projects" tab.
+Apply to create a collective for your initiative. You will be automatically listed as part of the network and get more opportunities to collect donations to sustain your activities. <a href="/services/">Find out more</a> - <a href="https://opencollective.com/brusselstogether/apply">Apply</a></li>
 
 ### Add a place to work or meet
 Edit the [#BrusselsTogether Spreadsheet](http://bit.ly/BrusselsTogetherSpreadsheet) and add your initiative in the "Places" tab.
