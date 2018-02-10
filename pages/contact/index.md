@@ -2,6 +2,7 @@
 title: Contact
 ---
 
+- Blog: https://medium.com/brussels-together
 - Slack: https://slack.brusselstogether.org
 - Facebook group: https://facebook.com/groups/BrusselsTogether
 - Meetup group: https://meetup.com/BrusselsTogether
@@ -15,3 +16,5 @@ Help us support all the initiatives that make Brussels a great city to live and 
 - [Make a donation](https://opencollective.com/brusselstogether-collective/donate)
 
 <object type="image/svg+xml" data="https://opencollective.com/brusselstogether-collective/members.svg?avatarHeight=32&width=320"></object>
+
+<script src="https://opencollective.com/brusselstogetherasbl/collectives.js"></script>

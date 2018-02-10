@@ -70,7 +70,7 @@ class Index extends React.Component {
         <p>BrusselsTogether aims to make it easier to start and sustain any citizen led initiative:
           <ul>
             <li>Discover the <a href="https://opencollective.com/brusselstogether-collective#hosting">existing initiatives happening in Brussels that you can support</a></li>
-            <li>Start your initiative: BrusselsTogether lets you create a virtual association so that you can get started in no time and focus on what you want to do to improve Brussels. No paperwork needed.  <a href="/services/">Find out more</a> - <a href="https://opencollective.com/brusselstogether/apply">Apply</a></li>
+            <li>Start your initiative: BrusselsTogether lets you create a virtual association so that you can get started in no time and focus on what you want to do to improve Brussels. No paperwork, no accounting.  <a href="/services/">Find out more</a> - <a href="https://opencollective.com/BrusselsTogetherASBL/apply">Apply</a></li>
           </ul>
        </p>
         <h2>Join us</h2>
