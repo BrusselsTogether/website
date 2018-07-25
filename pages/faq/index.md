@@ -57,7 +57,7 @@ If you want to receive money online (useful for recurring donations), the platfo
 
 ## What do we do with your money?
 
-We are fully transparent with our own money, see our own [BrusselsTogether Collective](https://opencollective.com/brusselstogether-collective) and anyone is free to [submit an expense to the collective](https://opencollective.com/brusselstogether-collective/expenses/new) for things that will help the entire community.
+We are fully transparent with our own money, see our own [BrusselsTogether Collective](https://opencollective.com/brusselstogether) and anyone is free to [submit an expense to the collective](https://opencollective.com/brusselstogether/expenses/new) for things that will help the entire community.
 
 ## What are the limitations?
 

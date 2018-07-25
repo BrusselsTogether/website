@@ -12,9 +12,9 @@ title: Contact
 
 Help us support all the initiatives that make Brussels a great city to live and work, become a member or donate.
 
-- [Become a member for €10/month](https://opencollective.com/brusselstogether-collective/order/120)
-- [Make a donation](https://opencollective.com/brusselstogether-collective/donate)
+- [Become a member for €10/month](https://opencollective.com/brusselstogether/order/120)
+- [Make a donation](https://opencollective.com/brusselstogether/donate)
 
-<object type="image/svg+xml" data="https://opencollective.com/brusselstogether-collective/members.svg?avatarHeight=32&width=320"></object>
+<object type="image/svg+xml" data="https://opencollective.com/brusselstogether/members.svg?avatarHeight=32&width=320"></object>
 
 <script src="https://opencollective.com/brusselstogetherasbl/collectives.js"></script>
