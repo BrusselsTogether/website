@@ -5,7 +5,6 @@ title: Contact
 - Blog: https://medium.com/brussels-together
 - Slack: https://slack.brusselstogether.org
 - Facebook group: https://facebook.com/groups/BrusselsTogether
-- Meetup group: https://meetup.com/BrusselsTogether
 - Email: [info@brusselstogether.org](mailto:info@brusselstogether.org)
 
 ## Become a member!
