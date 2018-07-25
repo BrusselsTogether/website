@@ -3,7 +3,7 @@ import { Link } from 'react-router';
 import { rhythm, fontSizeToMS } from '../utils/typography'
 import { prefixLink } from 'gatsby-helpers'
 
-const sections = ['Manifesto', 'Meetup', 'Podcast', 'Services', 'FAQ', 'About'];
+const sections = ['Manifesto', 'Services', 'FAQ', 'About'];
 
 class Nav extends React.Component {
 
