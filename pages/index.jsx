@@ -61,8 +61,8 @@ class Index extends React.Component {
     return (
       <DocumentTitle title={`${config.blogTitle}`}>
       <div className="content">
-        <h2>Why don't you do it?</h2>
-        <iframe className="youtube" width="560" height="315" src="https://www.youtube.com/embed/wVTx3OorJtc" frameBorder="0" allowFullscreen></iframe>
+        <h2>BrusselsTogether Explained</h2>
+        <iframe className="youtube" width="560" height="315" src="https://www.youtube.com/embed/a3UhugsKAO0" frameBorder="0" allowFullscreen></iframe>
         <ul className="posts">
           {pageLinks}
         </ul>
@@ -73,6 +73,8 @@ class Index extends React.Component {
             <li>Start your initiative: BrusselsTogether lets you create a virtual association so that you can get started in no time and focus on what you want to do to improve Brussels. No paperwork, no accounting.  <a href="/services/">Find out more</a> - <a href="https://opencollective.com/BrusselsTogetherASBL/apply">Apply</a></li>
           </ul>
        </p>
+        <h2>Why don't you do it?</h2>
+        <iframe className="youtube" width="560" height="315" src="https://www.youtube.com/embed/wVTx3OorJtc" frameBorder="0" allowFullscreen></iframe>
         <h2>Join us</h2>
         <div dangerouslySetInnerHTML={{__html: contactPage}}/>
       </div>
