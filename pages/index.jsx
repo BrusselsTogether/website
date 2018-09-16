@@ -67,10 +67,10 @@ class Index extends React.Component {
           {pageLinks}
         </ul>
         <p>We all have something to contribute to make Brussels a better city.</p>
-        <p>BrusselsTogether aims to make it easier to start and sustain any citizen led initiative:
+        <p>BrusselsTogether is a non profit organization (ASBL/VZW) that we all share so that we can mutualize all the administrative bullshit (legal, accounting, reporting, ...). It's cheaper for everyone and most importantly it helps us spend more time on our respective projects.
           <ul>
-            <li>Discover the <a href="https://opencollective.com/brusselstogether#hosting">existing initiatives happening in Brussels that you can support</a></li>
-            <li>Start your initiative: BrusselsTogether lets you create a virtual association so that you can get started in no time and focus on what you want to do to improve Brussels. No paperwork, no accounting.  <a href="/services/">Find out more</a> - <a href="https://opencollective.com/BrusselsTogetherASBL/apply">Apply</a></li>
+            <li>Discover the <a href="https://opencollective.com/brusselstogether#members">existing initiatives hosted by BrusselsTogether</a></li>
+            <li>Join our community: whether you have already started your citizen initiative or you are about to start, join us! The more we are the stronger we will be. We can share common costs and we can help each other with our respective skills and experience. <a href="/services/">Find out more</a> - <a href="https://opencollective.com/BrusselsTogetherASBL/apply">Apply</a></li>
           </ul>
        </p>
         <h2>Why don't you do it?</h2>
