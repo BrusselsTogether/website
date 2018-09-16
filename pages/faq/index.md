@@ -2,6 +2,10 @@
 title: FAQ
 ---
 
+## Who are you?
+
+We are simple citizens who want to do their part to make Brussels a great city to live, to work, to have fun for everyone.
+
 ## What's your goal?
 
 Our goal is to make it easy for everyone to play their part to make Brussels a great city to live and work.
@@ -16,7 +20,7 @@ A city that is inclusive, open and always positive. A city that is safe, where l
 While we are very open, we are particularly interested in initiatives that aim at improving mobility, education and inclusiveness in Brussels.
 
 ## What do you actually do?
-We have created a non profit (ASBL/VZW) in Brussels so that other citizen initiatives don't have to. Our goal is to mutualise accounting, legal, and other services that are common to all associations in Brussels.
+We have created a non profit (ASBL/VZW) in Brussels so that other citizen initiatives don't have to. Our goal is to mutualise accounting, legal, and other services that are common to all citizen led initiatives in Brussels (see [our statuses](https://data.be/fr/societe/Brusselstogether-ASBL-0664932030)).
 
 We are also sometimes organizing our own events, writing blog posts and [making videos](https://www.youtube.com/channel/UCOsxUOEKArKmQ47f2KxFfXQ) with always the same goal: put the spotlight on all the citizen initiatives happening in our city.
 
