@@ -62,17 +62,18 @@ class Index extends React.Component {
       <DocumentTitle title={`${config.blogTitle}`}>
       <div className="content">
         <h2>BrusselsTogether Explained</h2>
+        <p>BrusselsTogether is a non profit organization (ASBL/VZW) that we all share so that we can spend more time on our respective projects and less time doing boring administrative tasks.</p>
         <iframe className="youtube" width="560" height="315" src="https://www.youtube.com/embed/a3UhugsKAO0" frameBorder="0" allowFullscreen></iframe>
         <ul className="posts">
           {pageLinks}
         </ul>
         <p>We all have something to contribute to make Brussels a better city.</p>
-        <p>BrusselsTogether is a non profit organization (ASBL/VZW) that we all share so that we can mutualize all the administrative bullshit (legal, accounting, reporting, ...). It's cheaper for everyone and most importantly it helps us spend more time on our respective projects.
-          <ul>
-            <li>Discover the <a href="https://opencollective.com/brusselstogether#members">existing initiatives hosted by BrusselsTogether</a></li>
-            <li>Join our community: whether you have already started your citizen initiative or you are about to start, join us! The more we are the stronger we will be. We can share common costs and we can help each other with our respective skills and experience. <a href="/services/">Find out more</a> - <a href="https://opencollective.com/BrusselsTogetherASBL/apply">Apply</a></li>
-          </ul>
-       </p>
+        <ul>
+          <li>Discover the <a href="https://opencollective.com/brusselstogether#members">existing initiatives hosted by BrusselsTogether</a></li>
+          <li>Join our community: whether you have already started your own citizen initiative or you are about to start one, join us! 🙌 <br />
+          The more we are, the stronger we are! 💪 Because we can share common costs and we can help each other with our respective skills and experience.<br />
+            <a href="/services/">Find out more</a> - <a href="https://opencollective.com/BrusselsTogetherASBL/apply">Apply</a></li>
+        </ul>
         <h2>Why don't you do it?</h2>
         <iframe className="youtube" width="560" height="315" src="https://www.youtube.com/embed/wVTx3OorJtc" frameBorder="0" allowFullscreen></iframe>
         <h2>Join us</h2>
