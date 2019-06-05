@@ -8,8 +8,8 @@ We need to support them. They need visibility, but they also need human, materia
 
 Today, they mostly rely on very old and inefficient systems to get funding through subsidies. It's a distraction and it's not sustainable. There's got to be a better way.
 
-That's what we want to explore with #BrusselsTogether. Can we recreate a city from the bottom up, with transparency, inclusiveness, and an experimentation spirit as its core? A city where everyone is invited to contribute? 
-*A city where everything is possible*.
+That's what we want to explore with #BrusselsTogether. Can we recreate a city from the bottom up, with transparency, inclusiveness, and an experimentation spirit as its core? A city where everyone is invited to contribute?
+_A city where everything is possible_.
 
 We are starting by creating this open collective to gather everyone who wants to contribute to make Brussels a great city to live and work.
 
@@ -19,9 +19,7 @@ You can also support our own collective by [making a donation](https://opencolle
 
 To drive our attention to any cool initiative happening in Brussels, simply share it with the #BrusselsTogether hashtag.
 
-We are also crowdsourcing in this [open spreadsheet](http://bit.ly/BrusselsTogetherSpreadsheet) places in Brussels that can be used by those projects to meet and work. We are also listing there people who don't have a project but would love to contribute one way or another. Fill it up!
-
-Be part of the change. 
+Be part of the change.
 
 We all have something to contribute.
 
