@@ -26,7 +26,7 @@ We are also sometimes organizing our own events, writing blog posts and [making 
 
 ## How to contribute?
 
-The best way to contribute is to start your own initiative! [apply](https://opencollective.com/brusselstogetherasbl/apply).
+The best way to contribute is to start your own initiative! [apply](https://opencollective.com/brussels/apply).
 
 We also need volunteers for our own collective!
 People who can organize meetups, write blog posts, manage our social media, etc.
@@ -36,7 +36,7 @@ You can also support BrusselsTogether ASBL financially by [making a donation](ht
 We also invite you to directly contribute to the collective of a project that you like and that is listed on our [collective page](https://opencollective.com/brusselstogether#members). If they are on that page, then they all share the same values and same level of transparency on how they will use the funds that they raise.
 
 ## How to add an initiative
-Apply to create a collective for your initiative. You will be automatically listed as part of the network and get more opportunities to collect donations to sustain your activities. <a href="/services/">Find out more</a> - <a href="https://opencollective.com/brusselstogetherasbl/apply">Apply</a></li>
+Apply to create a collective for your initiative. You will be automatically listed as part of the network and get more opportunities to collect donations to sustain your activities. <a href="/services/">Find out more</a> - <a href="https://opencollective.com/brussels/apply">Apply</a></li>
 
 
 ## What is an open collective?
@@ -58,7 +58,7 @@ For transparency, you need to upload a receipt or the invoice to your collective
 
 ## How much does it cost?
 
-It's free to [create your collective on BrusselsTogether](https://opencollective.com/brusselstogetherasbl/apply), create events and file expenses.
+It's free to [create your collective on BrusselsTogether](https://opencollective.com/brussels/apply), create events and file expenses.
 
 There is no fee for donations received by bank transfer (useful for subsidies and other one time grants).
 

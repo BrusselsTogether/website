@@ -47,7 +47,7 @@ Everybody can see in full transparency how much money there is in the collective
 
 ### How to apply?
 
-- [Fill in this form](https://opencollective.com/BrusselsTogetherASBL/apply)
+- [Fill in this form](https://opencollective.com/brussels/apply)
 
 We will review it as soon as possible (usually takes a day or two)
 

@@ -72,7 +72,7 @@ class Index extends React.Component {
           <li>Discover the <a href="https://opencollective.com/brusselstogether#members">existing initiatives hosted by BrusselsTogether</a></li>
           <li>Join our community: whether you have already started your own citizen initiative or you are about to start one, join us! 🙌 <br />
           The more we are, the stronger we are! 💪 Because we can share common costs and we can help each other with our respective skills and experience.<br />
-            <a href="/services/">Find out more</a> - <a href="https://opencollective.com/BrusselsTogetherASBL/apply">Apply</a></li>
+            <a href="/services/">Find out more</a> - <a href="https://opencollective.com/brussels/apply">Apply</a></li>
         </ul>
         <h2>Why don't you do it?</h2>
         <iframe className="youtube" width="560" height="315" src="https://www.youtube.com/embed/wVTx3OorJtc" frameBorder="0" allowFullscreen></iframe>
