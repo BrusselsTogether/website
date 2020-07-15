@@ -30,7 +30,7 @@
     "catch-links": "^2.0.1",
     "gatsby": "^0.9.3",
     "history": "~2.0.1",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.19",
     "moment": "^2.10.3",
     "react": "~0.14.8",
     "react-document-title": "^2.0.1",
